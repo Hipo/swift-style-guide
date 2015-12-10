@@ -125,7 +125,7 @@ let myClass = MyModule.UsefulClass()
 
 * Keep page guide line visible at 120 characters and try your best to keep your code within this limit horizontally (whenever possible).
 
-    ![Page Guide line setting](screens/xcode-jump-bar.png)
+    ![Page Guide line setting](screens/indentation.png)
 
 * Method braces and other braces (`if`/`else`/`switch`/`while` etc.) always open on the same line as the statement but close on a new line.
 
