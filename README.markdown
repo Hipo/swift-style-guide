@@ -1,6 +1,6 @@
-# Hipo Swift Style Guide.
+# Hipo Swift Style Guide
 
-This is the internal style guide for Swift development at [Hipo](http://hipolabs.com). It has been forked from raywenderlich.com Swift Style Guide (thanks!).
+This is the internal style guide for Swift development at [Hipo](http://hipolabs.com). This guide has been forked from [raywenderlich.com](raywenderlich.com) Swift Style Guide (thanks!).
 
 Our overarching goals are conciseness, readability, and simplicity.
 
